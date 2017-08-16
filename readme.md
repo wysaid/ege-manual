@@ -1,10 +1,10 @@
 #EGE（Easy Graphics Engine)
 作者：misakamm
 
-官网：[http://xege.org](http://xege.org)
-主页1：[http://misakamm.github.io/xege](http://misakamm.github.io/xege)
-主页2：[http://xege.org/manual](http://xege.org/manual)
-源代码：[https://github.com/misakamm/xege](https://github.com/misakamm/xege)
+* 官网：[http://xege.org](http://xege.org)
+* 主页1：[http://misakamm.github.io/xege](http://misakamm.github.io/xege)
+* 主页2：[http://xege.org/manual](http://xege.org/manual)
+* 源代码：[https://github.com/misakamm/xege](https://github.com/misakamm/xege)
 
 ## 预编译库下载：
 * 百度网盘: [https://pan.baidu.com/s/1qWxAgeK](https://pan.baidu.com/s/1qWxAgeK)
